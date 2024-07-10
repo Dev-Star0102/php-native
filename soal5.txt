@@ -1,0 +1,13 @@
+for me there little step
+
+first check the opening and closing php tags, don't let space and
+
+And this Some functions modifying the HTTP header are
+such as 
+
+- header / header fa-remove
+- session start / session regenerate id
+- setcokkie / setrawcookie
+
+so I will chek second above, so if in second above this still error
+I will check I think there some corrupt file, so I will change this file

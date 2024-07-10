@@ -1,0 +1,16 @@
+Question 
+What does MVC stand for and what does each component do?
+
+Answer
+MVC stands for MODEL VIEW CONTROELLER.
+The controller handles data passed to it by the view
+and also passed data to the view. Its responsible
+for interpretation of the data sent by the view and 
+dispersing that data to the appropriate models awaiting
+results to pass back to the view. Very little,
+if any business logic should be occurring in th controller
+
+for example in my experience use framework MVC such as
+in PHP I use Codeigniter3 
+in Javascript Angularjs is not Angular
+above framework MVC
